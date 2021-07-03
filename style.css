@@ -1,0 +1,18 @@
+
+#one{
+    background-color: rgb(97, 225, 65);
+    width: 50%;
+}
+#two{
+    background-color: slateblue;
+    width: 60%;
+}
+#third{
+    background-color: brown;
+    width: 70%;
+    height: 50px;
+}
+.for_class{
+    background-color: rgba(139, 113, 0, 0.904);
+    width: 80%;
+}
